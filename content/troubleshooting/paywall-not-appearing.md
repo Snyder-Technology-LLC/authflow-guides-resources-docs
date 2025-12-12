@@ -1,17 +1,9 @@
----
-id: "paywall-not-appearing"
-title: "Paywall Not Appearing"
-description: "Solutions when your GPT doesn't show the verification prompt"
-category: "troubleshooting"
-tags: ["troubleshooting", "paywall", "integration", "instructions"]
-contextKeys: ["paywall-view", "gpt-config"]
-difficulty: "beginner"
-estimatedTime: 5
-displayOrder: 1
-relatedDocs: ["gpt-instructions", "testing-integration"]
----
-
 # Paywall Not Appearing
+
+🟢 **Beginner** · ⏱️ ~5 min · 🛠️ How-To  
+Solutions when your GPT doesn't show the verification prompt.
+
+---
 
 If your GPT isn't asking users to verify their subscription, follow this troubleshooting guide.
 

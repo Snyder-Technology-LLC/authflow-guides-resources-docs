@@ -1,16 +1,9 @@
----
-id: "faq"
-title: "Frequently Asked Questions"
-description: "Common questions about Authflow and monetizing custom GPTs"
-category: "faq"
-tags: ["faq", "questions", "support", "help"]
-contextKeys: ["home", "support"]
-difficulty: "beginner"
-estimatedTime: 5
-displayOrder: 1
----
-
 # Frequently Asked Questions
+
+🟢 **Beginner** · ⏱️ ~5 min · 📂 FAQ  
+Common questions about Authflow and monetizing custom GPTs.
+
+---
 
 ## General Questions
 

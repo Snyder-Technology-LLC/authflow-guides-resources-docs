@@ -1,18 +1,9 @@
----
-id: "custom-gpt-overview"
-title: "Integrating Authflow with Custom GPTs"
-description: "Complete overview of integrating your Authflow paywall with ChatGPT Custom GPTs"
-category: "integration"
-tags: ["gpt", "integration", "chatgpt", "openai", "setup"]
-contextKeys: ["paywall-view", "gpt-config", "setup-guides"]
-difficulty: "beginner"
-estimatedTime: 15
-displayOrder: 1
-relatedDocs: ["gpt-schema-setup", "gpt-authentication", "gpt-instructions", "testing-integration"]
-featuredImage: "https://firebasestorage.googleapis.com/v0/b/facesift.firebasestorage.app/o/user_uploads%2F83EXwNWgaKe1BHmyd9ISw3HCEfi2%2F1765256222585-Screenshot%202025-12-08%20235655.png?alt=media&token=2e301877-996a-4609-8ce8-7e0d82ca22cf"
----
-
 # Integrating Authflow with Custom GPTs
+
+🟢 **Beginner** · ⏱️ ~15 min · 📘 Guide  
+Complete overview of integrating your Authflow paywall with ChatGPT Custom GPTs.
+
+---
 
 This guide walks you through the complete process of integrating your Authflow paywall into your custom GPT on ChatGPT. 
 

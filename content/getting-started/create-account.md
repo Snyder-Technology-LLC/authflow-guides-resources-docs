@@ -1,17 +1,9 @@
----
-id: "create-account"
-title: "Create Your Authflow Account"
-description: "Sign up for Authflow and get started with monetizing your GPTs"
-category: "getting-started"
-tags: ["signup", "account", "registration"]
-contextKeys: ["onboarding", "welcome"]
-difficulty: "beginner"
-estimatedTime: 2
-displayOrder: 2
-relatedDocs: ["complete-onboarding", "connect-stripe"]
----
-
 # Create Your Authflow Account
+
+🟢 **Beginner** · ⏱️ ~2 min · 📘 Guide  
+Sign up for Authflow and get started with monetizing your GPTs.
+
+---
 
 Getting started with Authflow takes just a few minutes. Follow these steps to create your account.
 

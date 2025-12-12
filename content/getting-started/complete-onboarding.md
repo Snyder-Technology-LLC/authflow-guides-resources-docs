@@ -1,17 +1,9 @@
----
-id: "complete-onboarding"
-title: "Complete the Onboarding Checklist"
-description: "Step-by-step guide to completing all onboarding steps in Authflow"
-category: "getting-started"
-tags: ["onboarding", "setup", "checklist", "stripe"]
-contextKeys: ["onboarding", "getting-started-checklist"]
-difficulty: "beginner"
-estimatedTime: 10
-displayOrder: 3
-relatedDocs: ["create-account", "connect-stripe", "understanding-dashboard"]
----
-
 # Complete the Onboarding Checklist
+
+🟢 **Beginner** · ⏱️ ~10 min · 📘 Guide  
+Step-by-step guide to completing all onboarding steps in Authflow.
+
+---
 
 When you first log in to Authflow, you'll see a **Getting Started** checklist. This guides you through the essential setup steps. Here's what each step means and how to complete it.
 

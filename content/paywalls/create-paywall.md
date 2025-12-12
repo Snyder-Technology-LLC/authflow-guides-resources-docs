@@ -1,18 +1,9 @@
----
-id: "create-paywall"
-title: "Create Your First Paywall"
-description: "Step-by-step guide to creating and configuring a paywall for your GPT"
-category: "paywalls"
-tags: ["paywall", "create", "setup", "pricing", "configuration"]
-contextKeys: ["create-paywall", "my-paywalls"]
-difficulty: "beginner"
-estimatedTime: 5
-displayOrder: 1
-relatedDocs: ["pricing-strategies", "free-trials", "custom-gpt-overview"]
-featuredImage: "https://firebasestorage.googleapis.com/v0/b/facesift.firebasestorage.app/o/user_uploads%2F83EXwNWgaKe1BHmyd9ISw3HCEfi2%2F1765256105553-Screenshot%202025-12-08%20235458.png?alt=media&token=3bb3b04c-5da6-47ff-971a-385d766f52d3"
----
-
 # Create Your First Paywall
+
+🟢 **Beginner** · ⏱️ ~5 min · 📘 Guide  
+Step-by-step guide to creating and configuring a paywall for your GPT.
+
+---
 
 A paywall is what protects your GPT and enables you to charge users for access. This guide walks you through creating and configuring your first paywall.
 

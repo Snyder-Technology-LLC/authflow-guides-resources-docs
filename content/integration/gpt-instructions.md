@@ -1,18 +1,9 @@
----
-id: "gpt-instructions"
-title: "Add Top Context Instructions"
-description: "The critical step - adding Authflow instructions to your GPT's system prompt"
-category: "integration"
-tags: ["gpt", "instructions", "prompt", "context", "critical"]
-contextKeys: ["paywall-view", "gpt-config"]
-difficulty: "beginner"
-estimatedTime: 2
-displayOrder: 5
-relatedDocs: ["custom-gpt-overview", "gpt-authentication", "testing-integration", "character-limit"]
-featuredImage: "https://firebasestorage.googleapis.com/v0/b/facesift.firebasestorage.app/o/user_uploads%2F83EXwNWgaKe1BHmyd9ISw3HCEfi2%2F1765257184057-Screenshot%202025-12-09%20001258.png?alt=media&token=f646bdcb-0ea6-43ad-8600-a0af5f540ef5"
----
-
 # Add Top Context Instructions
+
+🟢 **Beginner** · ⏱️ ~2 min · 🛠️ How-To  
+The critical step - adding Authflow instructions to your GPT's system prompt.
+
+---
 
 > **⚠️ This is the MOST IMPORTANT step!** Without these instructions, your paywall won't work.
 

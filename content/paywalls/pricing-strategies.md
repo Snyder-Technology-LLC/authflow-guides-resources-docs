@@ -1,17 +1,9 @@
----
-id: "pricing-strategies"
-title: "Pricing Strategies for Your GPTs"
-description: "How to price your GPTs for maximum revenue and user adoption"
-category: "paywalls"
-tags: ["pricing", "strategy", "revenue", "monetization"]
-contextKeys: ["create-paywall", "pricing"]
-difficulty: "intermediate"
-estimatedTime: 7
-displayOrder: 2
-relatedDocs: ["create-paywall", "subscription-models", "free-trials"]
----
-
 # Pricing Strategies for Your GPTs
+
+🟡 **Intermediate** · ⏱️ ~7 min · 📘 Guide  
+How to price your GPTs for maximum revenue and user adoption.
+
+---
 
 Pricing your GPT correctly is crucial for success. Price too high and you'll lose potential customers; too low and you'll leave money on the table. This guide helps you find the sweet spot.
 

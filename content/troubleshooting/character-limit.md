@@ -1,17 +1,9 @@
----
-id: "character-limit"
-title: "Instructions Character Limit"
-description: "Managing the 8,000 character limit for GPT instructions"
-category: "troubleshooting"
-tags: ["troubleshooting", "instructions", "character-limit", "optimization"]
-contextKeys: ["gpt-config"]
-difficulty: "intermediate"
-estimatedTime: 5
-displayOrder: 4
-relatedDocs: ["gpt-instructions", "custom-gpt-overview"]
----
-
 # Instructions Character Limit
+
+🟡 **Intermediate** · ⏱️ ~5 min · 🛠️ How-To  
+Managing the 8,000 character limit for GPT instructions.
+
+---
 
 ChatGPT custom GPTs have an 8,000 character limit for instructions. When adding Authflow's Top Context Instructions, you may need to optimize your existing instructions.
 

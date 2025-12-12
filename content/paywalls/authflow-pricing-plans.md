@@ -1,17 +1,9 @@
----
-id: "authflow-pricing-plans"
-title: "Authflow Pricing Plans"
-description: "Understanding Authflow's pricing tiers and choosing the right plan for you"
-category: "paywalls"
-tags: ["pricing", "plans", "billing", "fees"]
-contextKeys: ["plans-billing"]
-difficulty: "beginner"
-estimatedTime: 4
-displayOrder: 5
-relatedDocs: ["pricing-strategies"]
----
-
 # Authflow Pricing Plans
+
+🟢 **Beginner** · ⏱️ ~4 min · ⚙️ Reference  
+Understanding Authflow's pricing tiers and choosing the right plan for you.
+
+---
 
 Authflow offers flexible pricing plans to suit creators at every stage. Here's what each plan includes and how to choose the right one for you.
 

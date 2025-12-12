@@ -1,17 +1,9 @@
----
-id: "authentication-issues"
-title: "Authentication Issues"
-description: "Troubleshooting API key and authentication problems"
-category: "troubleshooting"
-tags: ["troubleshooting", "authentication", "api-key", "errors"]
-contextKeys: ["paywall-view", "gpt-config"]
-difficulty: "beginner"
-estimatedTime: 4
-displayOrder: 2
-relatedDocs: ["gpt-authentication", "testing-integration"]
----
-
 # Authentication Issues
+
+🟢 **Beginner** · ⏱️ ~4 min · 🛠️ How-To  
+Troubleshooting API key and authentication problems.
+
+---
 
 If your GPT can't authenticate with Authflow or you're seeing authentication errors, follow this guide.
 

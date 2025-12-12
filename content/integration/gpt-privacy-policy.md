@@ -1,17 +1,9 @@
----
-id: "gpt-privacy-policy"
-title: "Add Privacy Policy"
-description: "How to add the privacy policy to your GPT action"
-category: "integration"
-tags: ["gpt", "privacy", "policy", "compliance", "setup"]
-contextKeys: ["paywall-view", "gpt-config"]
-difficulty: "beginner"
-estimatedTime: 1
-displayOrder: 4
-relatedDocs: ["custom-gpt-overview", "gpt-authentication", "gpt-instructions"]
----
-
 # Add Privacy Policy
+
+🟢 **Beginner** · ⏱️ ~1 min · 🛠️ How-To  
+How to add the privacy policy to your GPT action.
+
+---
 
 Every GPT action requires a privacy policy URL. Authflow provides one for you to use with the paywall integration.
 

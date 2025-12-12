@@ -1,17 +1,9 @@
----
-id: "multiple-gpts"
-title: "Using Paywalls with Multiple GPTs"
-description: "How to use one paywall across multiple GPTs or create separate paywalls"
-category: "integration"
-tags: ["gpt", "multiple", "paywalls", "scaling", "bundles"]
-contextKeys: ["my-paywalls", "create-paywall"]
-difficulty: "intermediate"
-estimatedTime: 4
-displayOrder: 7
-relatedDocs: ["custom-gpt-overview", "create-paywall"]
----
-
 # Using Paywalls with Multiple GPTs
+
+🟡 **Intermediate** · ⏱️ ~4 min · 📘 Guide  
+How to use one paywall across multiple GPTs or create separate paywalls.
+
+---
 
 As you grow, you may want to monetize multiple GPTs. Authflow offers flexibility in how you structure your paywalls.
 

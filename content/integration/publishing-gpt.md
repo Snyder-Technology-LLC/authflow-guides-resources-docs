@@ -1,17 +1,9 @@
----
-id: "publishing-gpt"
-title: "Publishing Your Monetized GPT"
-description: "How to publish and share your GPT after integration"
-category: "integration"
-tags: ["publish", "share", "launch", "marketing", "gpt-store"]
-contextKeys: ["paywall-view"]
-difficulty: "beginner"
-estimatedTime: 3
-displayOrder: 8
-relatedDocs: ["testing-integration", "best-practices"]
----
-
 # Publishing Your Monetized GPT
+
+🟢 **Beginner** · ⏱️ ~3 min · 📘 Guide  
+How to publish and share your GPT after integration.
+
+---
 
 After completing integration and testing, it's time to publish your GPT and start earning!
 

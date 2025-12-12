@@ -1,18 +1,9 @@
----
-id: "gpt-authentication"
-title: "Configure GPT Authentication"
-description: "How to set up API key authentication for your GPT action"
-category: "integration"
-tags: ["gpt", "authentication", "api-key", "security", "setup"]
-contextKeys: ["paywall-view", "gpt-config"]
-difficulty: "beginner"
-estimatedTime: 3
-displayOrder: 3
-relatedDocs: ["custom-gpt-overview", "gpt-schema-setup", "authentication-issues"]
-featuredImage: "https://firebasestorage.googleapis.com/v0/b/facesift.firebasestorage.app/o/user_uploads%2F83EXwNWgaKe1BHmyd9ISw3HCEfi2%2F1765257120654-Screenshot%202025-12-09%20001154.png?alt=media&token=cc19898b-20a1-47f7-b8cc-77905f84f8c6"
----
-
 # Configure GPT Authentication
+
+🟢 **Beginner** · ⏱️ ~3 min · 🛠️ How-To  
+How to set up API key authentication for your GPT action.
+
+---
 
 Authentication connects your GPT to your specific Authflow paywall. This guide shows you how to set up API key authentication correctly.
 

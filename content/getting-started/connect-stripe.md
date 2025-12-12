@@ -1,17 +1,9 @@
----
-id: "connect-stripe"
-title: "Connect Stripe for Payouts"
-description: "How to connect your Stripe account to receive payments from your GPT subscribers"
-category: "getting-started"
-tags: ["stripe", "payments", "payouts", "setup"]
-contextKeys: ["stripe-connect", "onboarding"]
-difficulty: "beginner"
-estimatedTime: 5
-displayOrder: 5
-relatedDocs: ["complete-onboarding", "create-paywall"]
----
-
 # Connect Stripe for Payouts
+
+🟢 **Beginner** · ⏱️ ~5 min · 📘 Guide  
+How to connect your Stripe account to receive payments from your GPT subscribers.
+
+---
 
 Stripe is how you receive payments from your GPT subscribers. Authflow uses Stripe Connect to securely handle all payment processing, so your customers' payment information is never stored on Authflow's servers.
 

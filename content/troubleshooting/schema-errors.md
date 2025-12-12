@@ -1,17 +1,9 @@
----
-id: "schema-errors"
-title: "Schema Errors"
-description: "Fixing red error messages when pasting the GPT schema"
-category: "troubleshooting"
-tags: ["troubleshooting", "schema", "openapi", "errors"]
-contextKeys: ["paywall-view", "gpt-config"]
-difficulty: "beginner"
-estimatedTime: 3
-displayOrder: 3
-relatedDocs: ["gpt-schema-setup", "authentication-issues"]
----
-
 # Schema Errors
+
+🟢 **Beginner** · ⏱️ ~3 min · 🛠️ How-To  
+Fixing red error messages when pasting the GPT schema.
+
+---
 
 If you see red error messages after pasting the schema into your GPT action, follow this guide.
 

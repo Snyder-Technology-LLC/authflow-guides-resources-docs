@@ -1,18 +1,9 @@
----
-id: "testing-integration"
-title: "Testing Your Integration"
-description: "How to test and verify your Authflow integration is working correctly"
-category: "integration"
-tags: ["testing", "verification", "debugging", "integration"]
-contextKeys: ["paywall-view", "gpt-config"]
-difficulty: "beginner"
-estimatedTime: 5
-displayOrder: 6
-relatedDocs: ["custom-gpt-overview", "gpt-instructions", "paywall-not-appearing"]
-featuredImage: "https://firebasestorage.googleapis.com/v0/b/facesift.firebasestorage.app/o/user_uploads%2F83EXwNWgaKe1BHmyd9ISw3HCEfi2%2F1765257538385-Screenshot%202025-12-09%20001839.png?alt=media&token=69dbb7f2-4e6c-4770-88ae-2185616364dd"
----
-
 # Testing Your Integration
+
+🟢 **Beginner** · ⏱️ ~5 min · 🛠️ How-To  
+How to test and verify your Authflow integration is working correctly.
+
+---
 
 After completing the integration steps, it's important to test that everything works correctly before sharing your GPT with the world.
 

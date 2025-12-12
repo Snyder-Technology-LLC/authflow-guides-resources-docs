@@ -1,18 +1,9 @@
----
-id: "gpt-schema-setup"
-title: "Paste the GPT Schema"
-description: "How to copy and paste the Authflow schema into your GPT action"
-category: "integration"
-tags: ["gpt", "schema", "openapi", "action", "setup"]
-contextKeys: ["paywall-view", "gpt-config"]
-difficulty: "beginner"
-estimatedTime: 3
-displayOrder: 2
-relatedDocs: ["custom-gpt-overview", "gpt-authentication", "schema-errors"]
-featuredImage: "https://firebasestorage.googleapis.com/v0/b/facesift.firebasestorage.app/o/user_uploads%2F83EXwNWgaKe1BHmyd9ISw3HCEfi2%2F1765257068494-Screenshot%202025-12-09%20001057.png?alt=media&token=9af55619-c1dc-4420-9c40-8ec31f83cfcf"
----
-
 # Paste the GPT Schema
+
+🟢 **Beginner** · ⏱️ ~3 min · 🛠️ How-To  
+How to copy and paste the Authflow schema into your GPT action.
+
+---
 
 The schema is an OpenAPI specification that tells your GPT how to communicate with the Authflow API. This guide shows you how to copy and paste it correctly.
 

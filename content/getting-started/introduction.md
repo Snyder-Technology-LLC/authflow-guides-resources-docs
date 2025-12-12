@@ -1,16 +1,9 @@
----
-id: "introduction"
-title: "Introduction to Authflow"
-description: "Learn what Authflow is and how it helps you monetize your custom GPTs"
-category: "getting-started"
-tags: ["overview", "introduction", "monetization", "gpt"]
-contextKeys: ["home", "onboarding"]
-difficulty: "beginner"
-estimatedTime: 3
-displayOrder: 1
----
-
 # Introduction to Authflow
+
+🟢 **Beginner** · ⏱️ ~3 min · 🧭 Overview  
+Learn what Authflow is and how it helps you monetize your custom GPTs.
+
+---
 
 **Authflow.ai** is the first ChatGPT-native paywall system designed to help creators monetize their custom GPTs directly on the ChatGPT platform. It provides enterprise-grade, subscription-based monetization for the agentic era, serving the creator economy with scale, security, and simplicity.
 

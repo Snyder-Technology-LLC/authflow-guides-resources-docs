@@ -1,18 +1,9 @@
----
-id: "understanding-dashboard"
-title: "Understanding the Authflow Dashboard"
-description: "A complete guide to navigating and using the Authflow dashboard"
-category: "getting-started"
-tags: ["dashboard", "navigation", "analytics", "overview"]
-contextKeys: ["home", "dashboard"]
-difficulty: "beginner"
-estimatedTime: 5
-displayOrder: 4
-relatedDocs: ["complete-onboarding", "create-paywall"]
-featuredImage: "https://firebasestorage.googleapis.com/v0/b/facesift.firebasestorage.app/o/user_uploads%2F83EXwNWgaKe1BHmyd9ISw3HCEfi2%2F1765256059158-Screenshot%202025-12-08%20235404.png?alt=media&token=5b70a188-05c4-4c03-b74c-f2034f7ca5bc"
----
-
 # Understanding the Authflow Dashboard
+
+🟢 **Beginner** · ⏱️ ~5 min · ⚙️ Reference  
+A complete guide to navigating and using the Authflow dashboard.
+
+---
 
 The Authflow dashboard is your command center for managing paywalls, tracking revenue, and growing your GPT business. Here's what each section does and when to use it.
 

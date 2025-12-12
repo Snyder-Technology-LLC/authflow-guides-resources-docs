@@ -1,17 +1,9 @@
----
-id: "subscription-models"
-title: "Subscription Models"
-description: "Understanding and setting up subscription-based pricing for your GPTs"
-category: "paywalls"
-tags: ["subscription", "recurring", "billing", "revenue"]
-contextKeys: ["create-paywall", "pricing"]
-difficulty: "beginner"
-estimatedTime: 5
-displayOrder: 3
-relatedDocs: ["create-paywall", "pricing-strategies", "free-trials"]
----
-
 # Subscription Models
+
+🟢 **Beginner** · ⏱️ ~5 min · 📘 Guide  
+Understanding and setting up subscription-based pricing for your GPTs.
+
+---
 
 Subscriptions provide recurring revenue, making your income more predictable and sustainable. Authflow makes it easy to set up and manage subscription-based paywalls.
 

@@ -1,17 +1,9 @@
----
-id: "free-trials"
-title: "Free Trials & Discounts"
-description: "How to use free trials and promotional offers to attract more customers"
-category: "paywalls"
-tags: ["free-trial", "discounts", "promotions", "conversion"]
-contextKeys: ["create-paywall"]
-difficulty: "beginner"
-estimatedTime: 4
-displayOrder: 4
-relatedDocs: ["create-paywall", "subscription-models", "pricing-strategies"]
----
-
 # Free Trials & Discounts
+
+🟢 **Beginner** · ⏱️ ~4 min · 📘 Guide  
+How to use free trials and promotional offers to attract more customers.
+
+---
 
 Free trials and discounts are powerful tools for attracting customers and increasing conversions. When used strategically, they can significantly boost your subscriber count.
 
