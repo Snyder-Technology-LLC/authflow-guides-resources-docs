@@ -35,18 +35,6 @@ Secure your custom GPTs directly on ChatGPT with robust paywalls and start earni
 
 ---
 
-## How It Works
-
-Transform your GPT into a revenue stream in just a few clicks.
-
-| Step | Action | Description |
-|:----:|--------|-------------|
-| **1** | 🔒 **Secure Your GPT** | Add a secure paywall to your custom GPTs in minutes. No complex setup required. |
-| **2** | 💰 **Set Your Price** | Choose your monetization model — subscriptions or one-time purchases. |
-| **3** | 🚀 **Launch & Earn** | Go live and start generating passive income. Thousands of creators are already monetizing with Authflow. |
-
----
-
 ## 🚀 Quick Start
 
 Get your paywall live in **10–15 minutes**:
@@ -280,8 +268,6 @@ See our [Character Limit Troubleshooting](https://github.com/Snyder-Technology-L
 <br><br>
 
 ---
-
-*Last updated: December 2024*
 
 Made with ❤️ for GPT creators
 
