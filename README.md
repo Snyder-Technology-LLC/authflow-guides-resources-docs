@@ -81,7 +81,7 @@ This is the most important step — connecting Authflow to your custom GPT.
   <tr>
     <td align="center" width="33%">
       <h3>⚡ Effortless Setup</h3>
-      Launch a secure paywall in under 5 minutes. No coding required, just simple configuration.
+      Launch a secure paywall in 10-15 minutes. No coding required, just simple configuration.
     </td>
     <td align="center" width="33%">
       <h3>🔐 Bank-Grade Security</h3>
@@ -184,7 +184,7 @@ All payouts flow directly through your connected **Stripe account**. You can cho
 
 <br>
 
-Authflow charges a **flat 10% fee** on all successful transactions. There are no monthly subscription costs or hidden fees. For enterprise users processing high volume, custom pricing can be negotiated. See [Authflow Pricing Plans](https://github.com/Snyder-Technology-LLC/authflow-guides-resources-docs/blob/main/content/paywalls/authflow-pricing-plans.md) for details.
+Authflow charges a **flat 10% fee** on all successful transactions. Everyone starts on a **free tier** — free forever for 1 paywall, no credit card required. For creators who need more paywalls, paid plans are available. Enterprise users processing high volume can negotiate custom pricing. See [Authflow Pricing Plans](https://github.com/Snyder-Technology-LLC/authflow-guides-resources-docs/blob/main/content/paywalls/authflow-pricing-plans.md) for details.
 
 </details>
 
@@ -207,11 +207,11 @@ Yes! You can create multiple paywalls to monetize different GPTs or offer varied
 </details>
 
 <details>
-<summary><strong>Can I offer free trials or discounts?</strong></summary>
+<summary><strong>Can I offer free trials?</strong></summary>
 
 <br>
 
-Yes! Authflow lets you configure **free trial periods** for subscriptions, so users can try your GPT before committing. You can also create discount codes and promotional pricing to increase conversions.
+Yes! Authflow lets you configure **free trial periods** (1-14 days) for subscriptions, so users can try your GPT before committing.
 
 </details>
 

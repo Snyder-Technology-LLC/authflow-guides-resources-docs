@@ -88,27 +88,6 @@ All three use the same paywall → One subscription = access to all three
 
 > **Note:** This feature is on the Authflow roadmap. Currently, you can achieve similar results with Option 1 (bundles) or Option 2 (separate paywalls).
 
-## Current Limitations
-
-### One Authflow Action per GPT
-
-Currently, you can only have one Authflow action per GPT. This means:
-
-- Can't have multiple pricing tiers in one GPT
-- Can't offer both monthly and lifetime in the same GPT
-
-**Workaround:** Create separate GPTs for different pricing:
-- "My GPT - Monthly"
-- "My GPT - Lifetime"
-
-### Workaround for Multiple Tiers
-
-If you need different tiers for the same GPT functionality:
-
-1. Create multiple versions of your GPT
-2. Each with a different paywall
-3. Name them clearly (e.g., "Tool Pro - Monthly", "Tool Pro - Annual")
-
 ## Managing Multiple Paywalls
 
 ### Organization Tips

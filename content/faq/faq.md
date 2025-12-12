@@ -61,9 +61,9 @@ All plans (except Enterprise with custom fees) charge a transaction fee per paym
 
 Yes! You can create different paywalls for different GPTs or different subscription tiers (depending on your plan).
 
-### Can I offer free trials or discounts?
+### Can I offer free trials?
 
-Yes! Authflow supports free trials (1-14 days) and promotional pricing.
+Yes! Authflow supports free trials (1-14 days) to let users try your GPT before committing to a subscription.
 
 ### What types of GPTs can I monetize?
 

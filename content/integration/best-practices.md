@@ -28,7 +28,7 @@ Your GPT description is your sales pitch. Make it count.
 ### Research First
 - Check what similar GPTs charge
 - Consider your target audience's budget
-- Use Authflow's Pricing Optimizer for suggestions
+- Use [Authflow's Pricing Optimizer](https://www.authflow.ai/?utm_source=github&utm_medium=docs&utm_campaign=github_docs&utm_content=bestpractices_pricingoptimizer_cta#pricing-optimizer) for suggestions
 
 ### Test and Iterate
 - Start with your best guess

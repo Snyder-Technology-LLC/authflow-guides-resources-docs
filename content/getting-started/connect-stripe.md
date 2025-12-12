@@ -63,7 +63,7 @@ If you need to reconnect Stripe:
 When you receive payments through Authflow, you'll see:
 
 - **Stripe Processing Fee**: Typically 2.9% + $0.30 per transaction
-- **Authflow Fee**: 10% per transaction (varies by plan)
+- **Authflow Fee**: 10% per transaction
 
 **Example:**
 - Customer pays $10/month

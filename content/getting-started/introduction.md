@@ -9,13 +9,13 @@ Learn what Authflow is and how it helps you monetize your custom GPTs.
 
 ## Key Features
 
-- **Effortless Setup**: Launch a secure paywall in under 5 minutes. No coding required.
+- **Effortless Setup**: Launch a secure paywall in 10-15 minutes. No coding required.
 - **Bank-Grade Security**: All payments are powered by Stripe, the industry leader in payment processing.
 - **Recurring Revenue**: Set up subscription models to generate reliable, scalable income streams.
-- **Pricing Optimization**: Built-in tools to help you optimize your pricing strategy.
+- **Pricing Optimization**: Use the [Pricing Optimizer](https://www.authflow.ai/?utm_source=github&utm_medium=docs&utm_campaign=github_docs&utm_content=introduction_pricingoptimizer_cta) to help determine the best price for your GPT.
 - **Analytics**: Track your revenue, subscriptions, and user engagement.
 - **Multiple Paywalls**: Create different paywalls for different GPTs or subscription tiers.
-- **Free Trials & Discounts**: Support for promotional offers to attract more customers.
+- **Free Trials**: Offer trial periods to let users experience your GPT before committing.
 - **Global Compliance**: Compliant with global regulations for secure transactions.
 
 ## What Makes Authflow Different?

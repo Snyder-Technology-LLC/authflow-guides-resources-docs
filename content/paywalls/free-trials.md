@@ -1,11 +1,11 @@
-# Free Trials & Discounts
+# Free Trials
 
 🟢 **Beginner** · ⏱️ ~4 min · 📘 Guide  
-How to use free trials and promotional offers to attract more customers.
+How to use free trials to attract more customers.
 
 ---
 
-Free trials and discounts are powerful tools for attracting customers and increasing conversions. When used strategically, they can significantly boost your subscriber count.
+Free trials are a powerful tool for attracting customers and increasing conversions. When used strategically, they can significantly boost your subscriber count.
 
 ## Why Offer Free Trials?
 
@@ -80,30 +80,6 @@ This ensures:
 - Make sure users experience a "wow moment" in the first session
 - Design for quick wins
 - Remove friction from first-time use
-
-## Discounts and Promotions
-
-### Coupon Codes
-
-Create discount codes for:
-- Launch promotions
-- Seasonal offers
-- Partner promotions
-- Influencer collaborations
-
-### Limited-Time Offers
-
-Create urgency with:
-- "Launch price: $9/month (regular $19)"
-- "50% off for the first 100 subscribers"
-- Holiday or seasonal discounts
-
-### Annual Subscription Discounts
-
-Encourage annual commitments:
-- Typical discount: 15-30% off monthly rate
-- Frame as "2 months free" or "Save $X"
-- Reduces churn, improves cash flow
 
 ## Measuring Trial Success
 
