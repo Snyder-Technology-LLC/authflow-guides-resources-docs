@@ -126,12 +126,12 @@ This makes the message more branded to your GPT.
 
 ### Character Limit Issues
 
-See [Character Limit Troubleshooting](/troubleshooting/character-limit) for tips on managing the 8,000 character limit.
+See [Character Limit Troubleshooting](https://github.com/Snyder-Technology-LLC/authflow-guides-resources-docs/blob/main/content/troubleshooting/character-limit.md) for tips on managing the 8,000 character limit.
 
 ## Next Steps
 
 After adding the instructions:
 
 1. **Save** your GPT configuration
-2. [Test your integration](/integration/testing-integration)
-3. [Publish your GPT](/integration/publishing-gpt)
+2. [Test your integration](https://github.com/Snyder-Technology-LLC/authflow-guides-resources-docs/blob/main/content/integration/testing-integration.md)
+3. [Publish your GPT](https://github.com/Snyder-Technology-LLC/authflow-guides-resources-docs/blob/main/content/integration/publishing-gpt.md)

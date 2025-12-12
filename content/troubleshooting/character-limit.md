@@ -158,5 +158,5 @@ If you're struggling with the character limit:
 
 ## Related Issues
 
-- [GPT Instructions Setup](/integration/gpt-instructions)
-- [Paywall Not Appearing](/troubleshooting/paywall-not-appearing)
+- [GPT Instructions Setup](https://github.com/Snyder-Technology-LLC/authflow-guides-resources-docs/blob/main/content/integration/gpt-instructions.md)
+- [Paywall Not Appearing](https://github.com/Snyder-Technology-LLC/authflow-guides-resources-docs/blob/main/content/troubleshooting/paywall-not-appearing.md)

@@ -59,7 +59,7 @@ When you first log in to Authflow, you'll see a **Getting Started** checklist. T
 - **Purpose**: Restrict access to your GPT and start charging users instantly
 - **Action**: Click **"Review"** to go to the paywall creation page
 - **Why**: This is where you'll create the paywall that protects your GPT
-- **Note**: See the [Create Your First Paywall](/paywalls/create-paywall) guide for detailed instructions
+- **Note**: See the [Create Your First Paywall](https://github.com/Snyder-Technology-LLC/authflow-guides-resources-docs/blob/main/content/paywalls/create-paywall.md) guide for detailed instructions
 
 ### 8. Welcome Your First Subscriber ⏳
 

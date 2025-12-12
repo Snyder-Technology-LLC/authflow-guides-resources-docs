@@ -42,7 +42,7 @@ No! Authflow is designed to be no-code. You can set up paywalls in minutes with 
 
 ### How much does Authflow cost?
 
-See the [Pricing Plans](/paywalls/authflow-pricing-plans) page for current pricing. Authflow offers a free tier to get started.
+See the [Pricing Plans](https://github.com/Snyder-Technology-LLC/authflow-guides-resources-docs/blob/main/content/paywalls/authflow-pricing-plans.md) page for current pricing. Authflow offers a free tier to get started.
 
 ### What payment methods do you support?
 
@@ -58,7 +58,7 @@ Payments go directly to your connected Stripe account. Stripe handles payouts ac
 
 ### What are the transaction fees?
 
-All plans (except Enterprise with custom fees) charge a transaction fee per payment, plus standard Stripe processing fees. See [Pricing Plans](/paywalls/authflow-pricing-plans) for details.
+All plans (except Enterprise with custom fees) charge a transaction fee per payment, plus standard Stripe processing fees. See [Pricing Plans](https://github.com/Snyder-Technology-LLC/authflow-guides-resources-docs/blob/main/content/paywalls/authflow-pricing-plans.md) for details.
 
 ---
 
@@ -111,7 +111,7 @@ Absolutely! Authflow is built to scale with your business. Whether you have 10 s
 
 ### What about the GPT instructions character limit?
 
-The Authflow instructions take up space in your GPT's 8,000 character limit. See [Character Limit Troubleshooting](/troubleshooting/character-limit) for optimization tips.
+The Authflow instructions take up space in your GPT's 8,000 character limit. See [Character Limit Troubleshooting](https://github.com/Snyder-Technology-LLC/authflow-guides-resources-docs/blob/main/content/troubleshooting/character-limit.md) for optimization tips.
 
 ---
 
@@ -145,4 +145,4 @@ Authflow offers:
 - Check this FAQ section
 - Use the "Feedback & Support" link in your Authflow dashboard
 - Email support@authflow.ai
-- Check the [Troubleshooting](/troubleshooting/) section
+- Check the [Troubleshooting](https://github.com/Snyder-Technology-LLC/authflow-guides-resources-docs/tree/main/content/troubleshooting) section

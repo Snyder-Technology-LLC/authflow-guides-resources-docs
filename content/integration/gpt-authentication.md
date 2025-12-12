@@ -107,6 +107,6 @@ After saving, verify your setup:
 
 After configuring authentication:
 
-1. [Add the Privacy Policy](/integration/gpt-privacy-policy)
-2. [Add Top Context Instructions](/integration/gpt-instructions) ⭐ Critical!
-3. [Test your integration](/integration/testing-integration)
+1. [Add the Privacy Policy](https://github.com/Snyder-Technology-LLC/authflow-guides-resources-docs/blob/main/content/integration/gpt-privacy-policy.md)
+2. [Add Top Context Instructions](https://github.com/Snyder-Technology-LLC/authflow-guides-resources-docs/blob/main/content/integration/gpt-instructions.md) ⭐ Critical!
+3. [Test your integration](https://github.com/Snyder-Technology-LLC/authflow-guides-resources-docs/blob/main/content/integration/testing-integration.md)

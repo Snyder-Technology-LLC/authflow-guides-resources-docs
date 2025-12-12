@@ -78,5 +78,5 @@ After adding the privacy policy:
 
 After adding the privacy policy:
 
-1. [Add Top Context Instructions](/integration/gpt-instructions) ⭐ **This is the most important step!**
-2. [Save and test your integration](/integration/testing-integration)
+1. [Add Top Context Instructions](https://github.com/Snyder-Technology-LLC/authflow-guides-resources-docs/blob/main/content/integration/gpt-instructions.md) ⭐ **This is the most important step!**
+2. [Save and test your integration](https://github.com/Snyder-Technology-LLC/authflow-guides-resources-docs/blob/main/content/integration/testing-integration.md)

@@ -93,6 +93,6 @@ If you see red error messages:
 
 After pasting the schema successfully:
 
-1. [Configure Authentication](/integration/gpt-authentication)
-2. [Add the Privacy Policy](/integration/gpt-privacy-policy)
-3. [Add Top Context Instructions](/integration/gpt-instructions)
+1. [Configure Authentication](https://github.com/Snyder-Technology-LLC/authflow-guides-resources-docs/blob/main/content/integration/gpt-authentication.md)
+2. [Add the Privacy Policy](https://github.com/Snyder-Technology-LLC/authflow-guides-resources-docs/blob/main/content/integration/gpt-privacy-policy.md)
+3. [Add Top Context Instructions](https://github.com/Snyder-Technology-LLC/authflow-guides-resources-docs/blob/main/content/integration/gpt-instructions.md)

@@ -113,14 +113,14 @@ You can confirm API calls in your Authflow dashboard:
 
 If testing reveals issues:
 
-- [Paywall Not Appearing](/troubleshooting/paywall-not-appearing)
-- [Authentication Issues](/troubleshooting/authentication-issues)
-- [Schema Errors](/troubleshooting/schema-errors)
+- [Paywall Not Appearing](https://github.com/Snyder-Technology-LLC/authflow-guides-resources-docs/blob/main/content/troubleshooting/paywall-not-appearing.md)
+- [Authentication Issues](https://github.com/Snyder-Technology-LLC/authflow-guides-resources-docs/blob/main/content/troubleshooting/authentication-issues.md)
+- [Schema Errors](https://github.com/Snyder-Technology-LLC/authflow-guides-resources-docs/blob/main/content/troubleshooting/schema-errors.md)
 
 ## Next Steps
 
 After successful testing:
 
 1. Do a final review of your GPT description and settings
-2. [Publish your GPT](/integration/publishing-gpt)
+2. [Publish your GPT](https://github.com/Snyder-Technology-LLC/authflow-guides-resources-docs/blob/main/content/integration/publishing-gpt.md)
 3. Share your GPT link and start monetizing!

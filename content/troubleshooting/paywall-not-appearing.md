@@ -118,6 +118,5 @@ If you've tried everything above:
 
 ## Related Issues
 
-- [Authentication Issues](/troubleshooting/authentication-issues)
-- [Schema Errors](/troubleshooting/schema-errors)
-- [GPT Not Calling API](/troubleshooting/gpt-not-calling-api)
+- [Authentication Issues](https://github.com/Snyder-Technology-LLC/authflow-guides-resources-docs/blob/main/content/troubleshooting/authentication-issues.md)
+- [Schema Errors](https://github.com/Snyder-Technology-LLC/authflow-guides-resources-docs/blob/main/content/troubleshooting/schema-errors.md)

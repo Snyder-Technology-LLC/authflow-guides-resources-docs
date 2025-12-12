@@ -22,7 +22,7 @@ This guide walks you through the complete process of integrating your Authflow p
 
 Before starting the integration, make sure you have:
 
-- ✅ Created a paywall in Authflow (see [Create Your First Paywall](/paywalls/create-paywall))
+- ✅ Created a paywall in Authflow (see [Create Your First Paywall](https://github.com/Snyder-Technology-LLC/authflow-guides-resources-docs/blob/main/content/paywalls/create-paywall.md))
 - ✅ A custom GPT created in ChatGPT
 - ✅ Access to edit your custom GPT's configuration
 
@@ -72,16 +72,16 @@ The integration process involves these steps:
 
 Follow the detailed guides for each step:
 
-1. [Paste the Schema](/integration/gpt-schema-setup)
-2. [Configure Authentication](/integration/gpt-authentication)
-3. [Add Privacy Policy](/integration/gpt-privacy-policy)
-4. [Add Top Context Instructions](/integration/gpt-instructions) ⭐ **Critical step!**
+1. [Paste the Schema](https://github.com/Snyder-Technology-LLC/authflow-guides-resources-docs/blob/main/content/integration/gpt-schema-setup.md)
+2. [Configure Authentication](https://github.com/Snyder-Technology-LLC/authflow-guides-resources-docs/blob/main/content/integration/gpt-authentication.md)
+3. [Add Privacy Policy](https://github.com/Snyder-Technology-LLC/authflow-guides-resources-docs/blob/main/content/integration/gpt-privacy-policy.md)
+4. [Add Top Context Instructions](https://github.com/Snyder-Technology-LLC/authflow-guides-resources-docs/blob/main/content/integration/gpt-instructions.md) ⭐ **Critical step!**
 
 ### Step 5: Save and Test
 
 1. **Save** all your GPT configuration changes
 2. **Test** by starting a new conversation
-3. See [Testing Your Integration](/integration/testing-integration) for details
+3. See [Testing Your Integration](https://github.com/Snyder-Technology-LLC/authflow-guides-resources-docs/blob/main/content/integration/testing-integration.md) for details
 
 ## What Happens After Integration
 
@@ -104,6 +104,6 @@ Once integrated, here's what users will experience:
 
 After integration:
 
-1. [Test your integration](/integration/testing-integration)
-2. [Learn about multiple GPTs](/integration/multiple-gpts)
-3. [Monitor your performance](/getting-started/understanding-dashboard)
+1. [Test your integration](https://github.com/Snyder-Technology-LLC/authflow-guides-resources-docs/blob/main/content/integration/testing-integration.md)
+2. [Learn about multiple GPTs](https://github.com/Snyder-Technology-LLC/authflow-guides-resources-docs/blob/main/content/integration/multiple-gpts.md)
+3. [Monitor your performance](https://github.com/Snyder-Technology-LLC/authflow-guides-resources-docs/blob/main/content/getting-started/understanding-dashboard.md)

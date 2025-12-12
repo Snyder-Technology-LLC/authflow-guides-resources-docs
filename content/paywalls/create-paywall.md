@@ -92,7 +92,7 @@ Once created, your paywall details page shows:
 - **Privacy Policy**: The privacy policy URL for your GPT action
 - **Top Context Instructions**: Instructions to add to your GPT
 
-See the [Integration Guide](/integration/custom-gpt-overview) for next steps.
+See the [Integration Guide](https://github.com/Snyder-Technology-LLC/authflow-guides-resources-docs/blob/main/content/integration/custom-gpt-overview.md) for next steps.
 
 ## Managing Your Paywall
 

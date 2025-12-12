@@ -145,5 +145,5 @@ If you can't resolve schema errors:
 
 ## Related Issues
 
-- [Authentication Issues](/troubleshooting/authentication-issues)
-- [Paywall Not Appearing](/troubleshooting/paywall-not-appearing)
+- [Authentication Issues](https://github.com/Snyder-Technology-LLC/authflow-guides-resources-docs/blob/main/content/troubleshooting/authentication-issues.md)
+- [Paywall Not Appearing](https://github.com/Snyder-Technology-LLC/authflow-guides-resources-docs/blob/main/content/troubleshooting/paywall-not-appearing.md)

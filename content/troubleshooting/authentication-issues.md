@@ -158,6 +158,5 @@ If issues persist:
 
 ## Related Issues
 
-- [Schema Errors](/troubleshooting/schema-errors)
-- [Paywall Not Appearing](/troubleshooting/paywall-not-appearing)
-- [GPT Not Calling API](/troubleshooting/gpt-not-calling-api)
+- [Schema Errors](https://github.com/Snyder-Technology-LLC/authflow-guides-resources-docs/blob/main/content/troubleshooting/schema-errors.md)
+- [Paywall Not Appearing](https://github.com/Snyder-Technology-LLC/authflow-guides-resources-docs/blob/main/content/troubleshooting/paywall-not-appearing.md)
