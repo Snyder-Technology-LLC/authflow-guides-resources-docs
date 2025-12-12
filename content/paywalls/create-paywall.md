@@ -18,7 +18,7 @@ A paywall is what protects your GPT and enables you to charge users for access. 
 
 ## Navigate to Create Paywall
 
-1. Log in to your Authflow account at [app.authflow.ai](https://app.authflow.ai)
+1. Log in to your Authflow account at [app.authflow.ai](https://authflow.ai/start?utm_source=github&utm_medium=docs&utm_campaign=github_docs&utm_content=createpaywall_login_cta)
 2. In the left sidebar, under **"PAYWALLS"**, click **"Create Paywall"**
 3. You'll see the "Paywall and Pricing Configuration" form
 

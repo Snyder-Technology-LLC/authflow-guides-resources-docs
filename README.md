@@ -11,11 +11,11 @@ Secure your custom GPTs directly on ChatGPT with robust paywalls and start earni
 
 <br>
 
-<a href="https://authflow.ai">
+<a href="https://authflow.ai?utm_source=github&utm_medium=readme&utm_campaign=github_docs&utm_content=header_getstarted_cta">
   <img src="https://img.shields.io/badge/Get%20Started%20Free-4F46E5?style=for-the-badge&logoColor=white" alt="Get Started Free">
 </a>
 &nbsp;
-<a href="https://app.authflow.ai">
+<a href="https://authflow.ai/start?utm_source=github&utm_medium=readme&utm_campaign=github_docs&utm_content=header_dashboard_cta">
   <img src="https://img.shields.io/badge/Open%20Dashboard-1F2937?style=for-the-badge&logoColor=white" alt="Open Dashboard">
 </a>
 &nbsp;
@@ -39,7 +39,7 @@ Secure your custom GPTs directly on ChatGPT with robust paywalls and start earni
 
 Get your paywall live in **10–15 minutes**:
 
-1. **Create an Authflow account** → [authflow.ai](https://authflow.ai)
+1. **Create an Authflow account** → [authflow.ai](https://authflow.ai?utm_source=github&utm_medium=readme&utm_campaign=github_docs&utm_content=quickstart_cta)
 2. **Connect Stripe** → Follow the onboarding wizard
 3. **Create a paywall** → Set your price, trial period, and billing cycle
 4. **Copy the GPT schema + instructions** → From your paywall details page
@@ -231,11 +231,11 @@ See our [Character Limit Troubleshooting](https://github.com/Snyder-Technology-L
 <table>
   <tr>
     <td><strong>🌐 Website</strong></td>
-    <td><a href="https://authflow.ai">authflow.ai</a></td>
+    <td><a href="https://authflow.ai?utm_source=github&utm_medium=readme&utm_campaign=github_docs&utm_content=support_website_link">authflow.ai</a></td>
   </tr>
   <tr>
     <td><strong>🎛️ Dashboard</strong></td>
-    <td><a href="https://app.authflow.ai">app.authflow.ai</a></td>
+    <td><a href="https://authflow.ai/start?utm_source=github&utm_medium=readme&utm_campaign=github_docs&utm_content=support_dashboard_link">app.authflow.ai</a></td>
   </tr>
   <tr>
     <td><strong>📧 Email Support</strong></td>
@@ -257,11 +257,11 @@ See our [Character Limit Troubleshooting](https://github.com/Snyder-Technology-L
 
 | Step 1 | Step 2 | Step 3 | Step 4 |
 |:------:|:------:|:------:|:------:|
-| [Create Account](https://authflow.ai) | [Create Paywall](https://github.com/Snyder-Technology-LLC/authflow-guides-resources-docs/blob/main/content/paywalls/create-paywall.md) | [Integrate GPT](https://github.com/Snyder-Technology-LLC/authflow-guides-resources-docs/blob/main/content/integration/custom-gpt-overview.md) | **Start Earning** |
+| [Create Account](https://authflow.ai?utm_source=github&utm_medium=readme&utm_campaign=github_docs&utm_content=footer_createaccount_cta) | [Create Paywall](https://github.com/Snyder-Technology-LLC/authflow-guides-resources-docs/blob/main/content/paywalls/create-paywall.md) | [Integrate GPT](https://github.com/Snyder-Technology-LLC/authflow-guides-resources-docs/blob/main/content/integration/custom-gpt-overview.md) | **Start Earning** |
 
 <br>
 
-<a href="https://authflow.ai">
+<a href="https://authflow.ai?utm_source=github&utm_medium=readme&utm_campaign=github_docs&utm_content=footer_hero_cta">
   <img src="https://img.shields.io/badge/🚀%20Start%20Monetizing%20for%20Free-4F46E5?style=for-the-badge&logoColor=white" alt="Start Monetizing for Free">
 </a>
 

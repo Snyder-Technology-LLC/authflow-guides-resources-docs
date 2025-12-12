@@ -25,7 +25,7 @@ Before you begin, make sure you have:
 
 ## Step-by-Step Registration
 
-1. **Visit Authflow**: Go to [authflow.ai](https://authflow.ai)
+1. **Visit Authflow**: Go to [authflow.ai](https://authflow.ai?utm_source=github&utm_medium=docs&utm_campaign=github_docs&utm_content=createaccount_visit_cta)
 
 2. **Click Get Started**: Click the **"Get Started"** or **"Start Monetizing for Free"** button
 
@@ -33,7 +33,7 @@ Before you begin, make sure you have:
 
 4. **Verify Email**: Check your inbox and verify your email if required
 
-5. **Access Dashboard**: You'll be taken to the Authflow dashboard at [app.authflow.ai](https://app.authflow.ai)
+5. **Access Dashboard**: You'll be taken to the Authflow dashboard at [app.authflow.ai](https://authflow.ai/start?utm_source=github&utm_medium=docs&utm_campaign=github_docs&utm_content=createaccount_dashboard_cta)
 
 ## What's Next?
 
