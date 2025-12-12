@@ -1,0 +1,5 @@
+title: "Paywalls"
+description: "Create and configure paywalls to monetize your GPTs"
+icon: "bi-shield-lock"
+displayOrder: 2
+color: "#059669"
