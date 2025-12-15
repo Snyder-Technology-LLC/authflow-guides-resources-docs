@@ -130,6 +130,7 @@ This is the most important step — connecting Authflow to your custom GPT.
 | 📘 [Introduction](https://github.com/Snyder-Technology-LLC/authflow-guides-resources-docs/blob/main/content/getting-started/introduction.md) | What is Authflow and why use it |
 | 📝 [Create Account](https://github.com/Snyder-Technology-LLC/authflow-guides-resources-docs/blob/main/content/getting-started/create-account.md) | Sign up and access the dashboard |
 | 💳 [Connect Stripe](https://github.com/Snyder-Technology-LLC/authflow-guides-resources-docs/blob/main/content/getting-started/connect-stripe.md) | Link your Stripe account for payouts |
+| 🧾 [Stripe Onboarding Guide](https://github.com/Snyder-Technology-LLC/authflow-guides-resources-docs/blob/main/content/getting-started/stripe-onboarding-guide.md) | Manage payouts, transactions & branding |
 | ✅ [Complete Onboarding](https://github.com/Snyder-Technology-LLC/authflow-guides-resources-docs/blob/main/content/getting-started/complete-onboarding.md) | Finish the setup checklist |
 | 🎛️ [Dashboard Overview](https://github.com/Snyder-Technology-LLC/authflow-guides-resources-docs/blob/main/content/getting-started/understanding-dashboard.md) | Navigate the Authflow dashboard |
 
