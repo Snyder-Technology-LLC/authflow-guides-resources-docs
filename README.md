@@ -1,3 +1,7 @@
+> **Looking for MCP server authentication or monetization?** Start with the [official Authflow MCP plugin](https://github.com/authflow-ai/authflow-plugin) for agent-guided setup, verification, publishing, and operations.
+>
+> This repository covers Authflow’s **Custom GPT integration guides**. For the current product overview, visit [Authflow](https://authflow.ai).
+
 <div align="center">
 
 # Authflow.ai
